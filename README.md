@@ -14,6 +14,8 @@ Join our [Discord](https://discord.gg/RzvCYRgUkx) and/or [Telegram](https://t.me
 
 OpenRecall is a fully open-source, privacy-first alternative to proprietary solutions like Microsoft's Windows Recall or Limitless' Rewind.ai. With OpenRecall, you can easily access your digital history, enhancing your memory and productivity without compromising your privacy.
 
+### Microsoft Windows Recall is not a Reverse RDP Capture, however this doesn't mean they won't be able to conduct background searches on your computer, wasting your precious CPU time and electricity bill while doing that.
+
 ## What does it do?
 
 OpenRecall captures your digital history through regularly taken snapshots, which are essentially screenshots. The text and images within these screenshots are analyzed and made searchable, allowing you to quickly find specific information by typing relevant keywords into OpenRecall. You can also manually scroll back through your history to revisit past activities.
